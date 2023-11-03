@@ -29,7 +29,7 @@ function createFeatures(earthquakeData) {
     onEachFeature: onEachFeature
   });
 
-  // To the Create make function
+  // To create the function
   createMap(earthquakes);
 }
 
